@@ -1,5 +1,5 @@
-# 💫 About Me:
-# My name is  :   Yohannes Maye 
+# Hi ,I am  Yohannes
+# A Fullstack web Developer and App Developer  
 I am currently student in Bahir Dar Universtiy
 
 
