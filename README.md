@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Yohannes Maye  
-### 🚀 Fullstack Web & App Developer | 🎓 CS Student at Bahir Dar University  
+### 🚀 Fullstack Web & App Developer | 🎓 IT Student at Bahir Dar University  
 
 Passionate about building scalable **web** and **mobile** applications using modern technologies.  
 
@@ -47,9 +47,3 @@ Passionate about building scalable **web** and **mobile** applications using mod
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yohannes-Maye-01&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
----
-
-### ✍️ Random Dev Quote  
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
