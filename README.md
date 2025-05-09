@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Yohannes Maye  
+# 👋 HI, I'm Yohannes Maye  
 ### 🚀 Fullstack Web & App Developer | 🎓 IT Student at Bahir Dar University  
 
 Passionate about building scalable **web** and **mobile** applications using modern technologies.  
