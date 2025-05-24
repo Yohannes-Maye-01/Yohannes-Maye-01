@@ -3,7 +3,8 @@
 
 Passionate about building scalable **web** and **mobile** applications using modern technologies.  
 
----
+
+
 
 ## 💻 Tech Stack  
 
